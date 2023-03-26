@@ -1,9 +1,12 @@
 # diff_remix
 
-
-Installation:
+## Installation:
+```
 pip install --upgrade pip
-pip install -r requirements.txt 
+pip install -r requirements.txt
+```
 
-Usage:
-python run.pt path/to/image1 path/to/image2
+## Usage:
+```
+python run.py path/to/image1 path/to/image2
+```
