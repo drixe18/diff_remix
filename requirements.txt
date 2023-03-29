@@ -1,4 +1,4 @@
 torch==2.0
-diffusers==0.12.1
+git+https://github.com/huggingface/diffusers.git
 accelerate==0.18.0 
 transformers==4.27.3
